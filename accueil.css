@@ -40,16 +40,14 @@ a {
     background-color: #33333384;
     color: #000000;
     height: 50px;
-    width: 50%;
+    width: 100%;
     text-align: center;
     padding-top: 20px;
     margin: auto;
     margin-top: 20px;
     font-size: 25px;
-    border-radius: 100px;
-    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.708) 0px 15px 12px;
-
-    
+    /*border-radius: 100px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.708) 0px 15px 12px;*/
 }
 .menu a:hover {
     color: #ffffff;
@@ -93,8 +91,8 @@ section:hover {
     margin: auto;
     padding: 12px 16px;
     border-radius: 10px;
-    background-color: rgba(255, 255, 255, 0.04);
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 6px;
+    background-color: rgba(119, 116, 116, 0.385);
+    box-shadow: rgba(241, 235, 235, 0.888) 0px 2px 6px;
 }
 
 .contact h2 {
