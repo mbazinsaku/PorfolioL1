@@ -7,7 +7,7 @@ body {
 }
 header {
     height: 230px;
-    background-color: #333;
+    background: linear-gradient( #07252d, white);
     color: white;
     padding: 1rem;
     
@@ -29,16 +29,16 @@ img {
     margin-left: 50px;
 }
 a {
-    color: #000000; /* violet */
     text-decoration: none;
     font-weight: bold;
     margin-right: 15px;
     transition: 1s;
-    
+    font-size: 25px;
+    color: #f1f1f1;
 }
+
 .menu {
-    background-color: #33333384;
-    color: #000000;
+    background-color: #07252d;
     height: 50px;
     width: 100%;
     text-align: center;
@@ -60,7 +60,8 @@ a {
     margin-right: 50px;
 }
 section {
-    background-color: #a5a5a5;
+    background-color: #07252d;
+    color: #f1f1f1;
     height: 70px;
     width: 90%;
     margin-left: 50px;
@@ -79,7 +80,7 @@ section:hover {
 }
 
 .contact {
-    background-color: #2f2f2f;
+    background-color: #07252d;
     color: #f1f1f1;
     padding: 12px 20px;
     margin-top: 20px;
@@ -91,7 +92,7 @@ section:hover {
     margin: auto;
     padding: 12px 16px;
     border-radius: 10px;
-    background-color: rgba(255, 255, 255, 0.04);
+    background-color: #07252d;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 6px;
 }
 
