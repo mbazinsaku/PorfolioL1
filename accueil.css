@@ -91,8 +91,8 @@ section:hover {
     margin: auto;
     padding: 12px 16px;
     border-radius: 10px;
-    background-color: rgba(255, 255, 255, 0.04);
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 6px;
+    background-color: rgba(119, 116, 116, 0.385);
+    box-shadow: rgba(241, 235, 235, 0.888) 0px 2px 6px;
 }
 
 .contact h2 {
